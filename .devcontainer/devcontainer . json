@@ -1,0 +1,8 @@
+{
+  "name": "Link Up Flutter",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/cirruslabs/flutter:latest": {}
+  },
+  "postCreateCommand": "flutter doctor"
+}
